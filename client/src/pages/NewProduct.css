@@ -1,0 +1,20 @@
+.upload-form{
+    margin-top: 6rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    /* display: flex;
+    justify-content: center; */
+}
+
+#upload-button{
+    position: relative; 
+    top:50% ; 
+    left:50% ;
+    color:#424242;
+    border: blanchedalmond;
+    background-color:  rgba(61, 55, 55, 0.54);
+}
+
+#upload-button:hover{
+    background-color: rgba(207, 207, 207, 0.54);
+}

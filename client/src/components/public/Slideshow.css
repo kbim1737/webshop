@@ -1,0 +1,5 @@
+.image{
+    background-image: url(./public/slide2.png);
+    background-size: cover;
+    padding-top: 20rem;
+}

@@ -1,0 +1,19 @@
+.image1{
+    background-image: url(./public/slide2.png);
+    background-size: cover;
+    padding-top: 20rem;
+}
+
+
+.image2{
+    background-image: url(./public/slide1.png);
+    background-size: cover;
+    padding-top: 20rem;
+}
+
+
+/* .image3{
+    background-image: url(./public/slide3.png);
+    background-size: cover;
+    padding-top: 20rem;
+} */

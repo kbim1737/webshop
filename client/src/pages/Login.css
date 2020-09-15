@@ -1,0 +1,19 @@
+.logincard{
+    margin-top: 8rem;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+}
+
+.title{
+    text-align: center;
+}
+
+h2{
+    padding-bottom: 2rem;
+}
+
+div.card {
+    background: #faf9f8;
+}

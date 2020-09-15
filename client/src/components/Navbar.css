@@ -1,0 +1,23 @@
+nav{
+    background-color: #607d8b;
+}
+
+.admin-title {
+    font-size: xx-large;
+    /* display: inline-block; */
+    padding-left: 10rem;
+}
+
+.normal-title {
+    font-size: xx-large;
+    /* display: inline-block; */
+}
+
+.left {
+    margin-right: auto ;
+} 
+
+
+.right {
+    margin-left: auto ;
+} 

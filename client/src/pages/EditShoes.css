@@ -1,0 +1,29 @@
+
+
+.card-body{
+    background-color: #faf9f8;
+    justify-content: center;
+
+}
+
+.card-title{
+    background-color: #faf9f8;
+}
+
+
+
+#row{
+    padding-top: 3rem;
+}
+
+
+#adminShoeButton{
+    margin-bottom: 1rem;
+    color:#424242;
+    border: blanchedalmond;
+    background-color: rgba(207, 207, 207, 0.54);
+}
+
+#adminShoeButton:hover{
+    background-color: rgba(207, 207, 207, 0.54);
+}
